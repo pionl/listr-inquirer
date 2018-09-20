@@ -1,6 +1,6 @@
+[![npm](https://badge.fury.io/js/listr-inquirer.svg)](http://badge.fury.io/js/listr-inquirer)
 
-
-> Input module for [Listr](https://github.com/SamVerschueren/listr)
+> Input module for [Listr](https://github.com/SamVerschueren/listr) and [Inquirer](https://github.com/SBoudrias/Inquirer.js)
 
 
 ## Install
