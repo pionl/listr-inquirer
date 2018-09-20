@@ -6,7 +6,7 @@
 ## Install
 
 ```
-$ npm install --save listr-input
+$ npm install --save listr-inquirer
 ```
 
 
