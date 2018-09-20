@@ -1,0 +1,30 @@
+{
+  "name": "listr-inquirer",
+  "version": "0.1.0",
+  "description": "Inquirer module for Listr",
+  "license": "MIT",
+  "repository": "pionl/listr-inquirer",
+  "author": {
+    "name": "Martin Kluska",
+    "email": "martin@kluska.cz",
+    "url": "https://github.com/pionl"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "listr",
+    "input",
+    "inquirer",
+    "prompt",
+    "question"
+  ],
+  "dependencies": {
+    "inquirer": "^3.3.0",
+    "rxjs": "^5.5.2",
+    "through": "^2.3.8"
+  }
+}
